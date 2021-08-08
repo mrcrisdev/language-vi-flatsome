@@ -1,0 +1,1214 @@
+# Copyright (C) 2021 UX-Themes
+# This file is distributed under the http://themeforest.net/licenses.
+msgid ""
+msgstr ""
+"Project-Id-Version: Flatsome 3.13.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/flatsome\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-03-30T11:06:41+00:00\n"
+"PO-Revision-Date: 2021-08-08 21:02+0700\n"
+"X-Generator: Poedit 3.0\n"
+"X-Domain: flatsome\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: vi\n"
+
+#. Theme Name of the theme
+msgid "Flatsome"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "http://flatsome.uxthemes.com/"
+msgstr ""
+
+#. Description of the theme
+#, fuzzy
+msgid "Multi-Purpose Responsive WooCommerce Theme"
+msgstr "Chili Theme"
+
+#. Author of the theme
+#, fuzzy
+msgid "UX-Themes"
+msgstr "UX-Chili Theme"
+
+#. Author URI of the theme
+msgid "http://www.uxthemes.com/"
+msgstr ""
+
+#: 404.php:24
+#, fuzzy
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Không thể tìm thấy trang đó."
+
+#: 404.php:27
+#, fuzzy
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+"Có vẻ như không có gì được tìm thấy tại vị trí này. Có thể thử một trong các "
+"liên kết bên dưới hoặc tìm kiếm?"
+
+#: comments.php:33
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s suy nghĩ về &ldquo;%2$s&rdquo;"
+
+#: comments.php:48
+#, fuzzy
+msgid "Comment navigation"
+msgstr "Điều hướng bình luận"
+
+#: comments.php:50
+#, fuzzy
+msgid "Older Comments"
+msgstr "Bình luận cũ hơn"
+
+#: comments.php:51
+#, fuzzy
+msgid "Newer Comments"
+msgstr "Bình luận mới nhất"
+
+#: comments.php:62
+#, fuzzy
+msgid "Comments are closed."
+msgstr "Bình luận đã được đóng."
+
+#: header.php:18
+#, fuzzy
+msgid "Skip to content"
+msgstr "Tiếp tục tới nội dung"
+
+#: image.php:26
+#, fuzzy
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size "
+"image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" "
+"rel=\"gallery\">%8$s</a>"
+msgstr ""
+"Đã đăng vào <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\">%2$s</time></span> tại <a href=\"%3$s\" title=\"Link to full-size "
+"image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Trở lại %7$s\" rel="
+"\"gallery\">%8$s</a>"
+
+#: image.php:38 image.php:108 inc/structure/structure-posts.php:168
+#: inc/structure/structure-posts.php:197
+#, fuzzy
+msgid "Edit"
+msgstr "Chỉnh sửa"
+
+#: image.php:100
+#, fuzzy
+msgid ""
+"<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a "
+"comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" "
+"title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr ""
+"<a class=\"comment-link\" href=\"#respond\" title=\"Đăng bình luận\">Đăng "
+"bình luận</a> hoặc để lại theo dõi: <a class=\"trackback-link\" href=\"%s\" "
+"title=\"URL theo dõi lại cho bài đăng của bạn\" rel=\"trackback\">Trackback "
+"URL</a>."
+
+#: image.php:102
+#, fuzzy
+msgid ""
+"Comments are closed, but you can leave a trackback: <a class=\"trackback-link"
+"\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback"
+"\">Trackback URL</a>."
+msgstr ""
+"Bình luận là đóng, nhưng bạn có thể để lại theo dõi: <a class=\"trackback-"
+"link\" href=\"%s\" title=\"URL theo dõi lại cho bài đăng của bạn\" rel="
+"\"trackback\">URL theo dõi</a>."
+
+#: image.php:104
+#, fuzzy
+msgid ""
+"Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond"
+"\" title=\"Post a comment\">post a comment</a>."
+msgstr ""
+"Theo dõi lại bị đóng, nhưng bạn có thể <a class=\"comment-link\" href="
+"\"#respond\" title=\"Đăng bình luận\">đăng bình luận</a>."
+
+#: image.php:106
+#, fuzzy
+msgid "Both comments and trackbacks are currently closed."
+msgstr "Hiện cả chức năng bình luận và tạo đường dẫn kết nối bị khóa."
+
+#: image.php:113
+#, fuzzy
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&larr;</span> Trở lại"
+
+#: image.php:114
+#, fuzzy
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Tiếp tục <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/admin/advanced/functions/functions.facebook.php:138
+#, fuzzy
+msgid "Connect Instagram Business accounts"
+msgstr "Kết nối tài khoản Instagram Business"
+
+#: inc/admin/advanced/functions/functions.facebook.php:145
+#: inc/admin/advanced/functions/functions.facebook.php:154
+msgid "Okay"
+msgstr ""
+
+#: inc/admin/advanced/functions/functions.facebook.php:150
+#, fuzzy
+msgid ""
+"No associated Instagram Business account was found for your Facebook user."
+msgstr ""
+"Không tìm thấy tài khoản Instagram Business được liên kết nào cho người dùng "
+"Facebook của bạn."
+
+#: inc/admin/advanced/functions/functions.facebook.php:205
+#, fuzzy
+msgid "Cancel"
+msgstr "Từ chối"
+
+#: inc/admin/advanced/functions/functions.facebook.php:208
+#, fuzzy
+msgid "Connect"
+msgstr "Kết nối"
+
+#: inc/admin/backend/menu/class-menu.php:91
+#, fuzzy
+msgid "Flatsome menu item options"
+msgstr "Tùy chọn menu"
+
+#: inc/admin/backend/menu/class-menu.php:95
+#, fuzzy
+msgid "Menu dropdown"
+msgstr "Menu sổ xuống"
+
+#: inc/admin/backend/menu/class-menu.php:98
+#, fuzzy
+msgid "Design"
+msgstr "Thiết kế"
+
+#: inc/admin/backend/menu/class-menu.php:100
+#, fuzzy
+msgid "Default"
+msgstr "Mặc định"
+
+#: inc/admin/backend/menu/class-menu.php:101
+#, fuzzy
+msgid "Default (custom size)"
+msgstr "Mặc định (tùy biến kích thước)"
+
+#: inc/admin/backend/menu/class-menu.php:102
+#, fuzzy
+msgid "Container width"
+msgstr "Chiều rộng của website"
+
+#: inc/admin/backend/menu/class-menu.php:103
+#, fuzzy
+msgid "Full width"
+msgstr "Kích thước đầy đủ"
+
+#: inc/admin/backend/menu/class-menu.php:106
+#, fuzzy
+msgid "Select dropdown design."
+msgstr "Chọn thiết kế sổ xuống"
+
+#: inc/admin/backend/menu/class-menu.php:110
+#: inc/admin/backend/menu/class-menu.php:161
+#, fuzzy
+msgid "Width"
+msgstr "Chiều rộng"
+
+#: inc/admin/backend/menu/class-menu.php:116
+#, fuzzy
+msgid "Height (optional)"
+msgstr "Chiều cao (tùy chọn)"
+
+#: inc/admin/backend/menu/class-menu.php:122
+msgid "UX Block"
+msgstr ""
+
+#: inc/admin/backend/menu/class-menu.php:134
+msgid "Reveal"
+msgstr ""
+
+#: inc/admin/backend/menu/class-menu.php:136
+#, fuzzy
+msgid "On hover"
+msgstr "Khi di chuột"
+
+#: inc/admin/backend/menu/class-menu.php:137
+#, fuzzy
+msgid "On click"
+msgstr "Khi nhấp chuột"
+
+#: inc/admin/backend/menu/class-menu.php:143
+msgid "Menu icon"
+msgstr ""
+
+#: inc/admin/backend/menu/class-menu.php:146
+#, fuzzy
+msgid "Icon type"
+msgstr "Kiểu icon"
+
+#: inc/admin/backend/menu/class-menu.php:148
+#, fuzzy
+msgid "Media library"
+msgstr "Thư viện hình ảnh"
+
+#: inc/admin/backend/menu/class-menu.php:149
+#, fuzzy
+msgid "Custom content"
+msgstr "Nội dung tùy chọn"
+
+#: inc/admin/backend/menu/class-menu.php:165
+#, fuzzy
+msgid "Height"
+msgstr "Chiều cao"
+
+#: inc/admin/backend/menu/class-menu.php:168
+#, fuzzy
+msgid "Icons default (empty) to 20x20."
+msgstr "Các biểu tượng mặc định (trống) thành 20x20."
+
+#: inc/admin/backend/menu/class-menu.php:173
+#, fuzzy
+msgid "Markup"
+msgstr "Đánh dấu"
+
+#: inc/admin/backend/menu/class-menu.php:176
+#, fuzzy
+msgid "Add any HTML, SVG or shortcode here."
+msgstr "Thêm bất kỳ HTML, SVG hoặc shortcode nào tại đây."
+
+#: inc/admin/gutenberg/class-gutenberg.php:109
+#, fuzzy
+msgid "Edit with UX Builder"
+msgstr "Sửa với UX Builder"
+
+#: inc/admin/options/header/options-header-mobile.php:85
+#, fuzzy
+msgid "Menu item behavior"
+msgstr "Hành vi của mục menu"
+
+#: inc/admin/options/header/options-header-mobile.php:86
+#, fuzzy
+msgid "Click behavior for menu items with a submenu"
+msgstr "Hành vi nhấp chuột cho các mục menu có menu con"
+
+#: inc/admin/options/header/options-header-mobile.php:91
+#, fuzzy
+msgid "Open link"
+msgstr "Mở liên kết"
+
+#: inc/admin/options/header/options-header-mobile.php:92
+#, fuzzy
+msgid "Toggle submenu"
+msgstr "Chuyển đổi menu con"
+
+#: inc/admin/options/header/options-header-mobile.php:99
+#, fuzzy
+msgid "Submenu effect"
+msgstr "Hiệu ứng menu con"
+
+#: inc/admin/options/header/options-header-mobile.php:104
+msgid "Accordion"
+msgstr ""
+
+#: inc/admin/options/header/options-header-mobile.php:105
+msgid "Slide"
+msgstr ""
+
+#: inc/admin/options/header/options-header-mobile.php:119
+#, fuzzy
+msgid "Submenu levels"
+msgstr "Mức menu con"
+
+#: inc/admin/options/header/options-header-mobile.php:124
+#, fuzzy
+msgid "1 level"
+msgstr "Mức 1"
+
+#: inc/admin/options/header/options-header-mobile.php:125
+#, fuzzy
+msgid "2 levels"
+msgstr "Mức 2"
+
+#: inc/admin/options/notifications/options-notifications.php:98
+#: inc/extensions/flatsome-cookie-notice/flatsome-cookie-notice.php:39
+#, fuzzy
+msgid ""
+"This site uses cookies to offer you a better browsing experience. By "
+"browsing this website, you agree to our use of cookies."
+msgstr ""
+"Trang web này sử dụng cookie để cung cấp cho bạn trải nghiệm duyệt web tốt "
+"hơn. Bằng cách duyệt trang web này, bạn đồng ý với việc sử dụng cookie của "
+"chúng tôi."
+
+#: inc/admin/options/portfolio/options-portfolio.php:76
+#, fuzzy
+msgid "Show share icons"
+msgstr "Hiển thị các biểu tượng chia sẻ"
+
+#: inc/admin/options/shop/options-shop-cart-checkout.php:46
+#, fuzzy
+msgid "Boxed Shipping labels"
+msgstr "Nhãn vận chuyển"
+
+#: inc/admin/options/shop/options-shop-cart-checkout.php:54
+#, fuzzy
+msgid "Show shipping estimate destination"
+msgstr "Hiển thị điểm đến ước tính vận chuyển"
+
+#: inc/admin/options/shop/options-shop-product-page.php:40
+#: inc/woocommerce/structure-wc-category-page.php:141
+#: inc/woocommerce/structure-wc-product-page-fields.php:22
+#, fuzzy
+msgid "Custom product layout"
+msgstr "Bố cục sản phẩm tùy chỉnh"
+
+#: inc/classes/class-flatsome-envato-admin.php:174
+#, fuzzy
+msgid "You must confirm the Envato License Terms."
+msgstr "Bạn phải xác nhận Điều khoản cấp phép của Envato."
+
+#. translators: 1: Create token URL
+#: inc/classes/class-flatsome-envato-admin.php:180
+#, fuzzy
+msgid ""
+"The provided value seems to be a purchase code. An Envato token is required "
+"to register. <a href=\"%s\" target=\"_blank\">Generate a token here</a>."
+msgstr ""
+"Giá trị được cung cấp dường như là một mã mua hàng. Cần có mã thông báo "
+"Envato để đăng ký. <a href=\"%s\" target=\"_blank\">Tạo mã thông báo tại "
+"đây</a>."
+
+#: inc/classes/class-flatsome-envato-api.php:106
+#, fuzzy
+msgid "An API token is required."
+msgstr "Mã API là bắt buộc."
+
+#: inc/classes/class-flatsome-envato-api.php:131
+#: inc/classes/class-flatsome-envato-api.php:135
+#, fuzzy
+msgid "An unknown API error occurred."
+msgstr "Đã xảy ra lỗi API không xác định."
+
+#. translators: 1: Create token URL
+#: inc/classes/class-flatsome-envato-api.php:158
+#, fuzzy
+msgid ""
+"Missing or invalid token. Double-check your token or try to <a href=\"%s\" "
+"target=\"_blank\">create a new one</a>."
+msgstr ""
+"Thiếu hoặc không hợp lệ mã thông báo. Kiểm tra kỹ mã thông báo của bạn hoặc "
+"thử <a href=\"%s\" target=\"_blank\">tạo một cái mới</a>."
+
+#. translators: 1: Permissions list.
+#: inc/classes/class-flatsome-envato-api.php:178
+#, fuzzy
+msgid "The token is missing the following permissions: %s"
+msgstr "Mã thông báo thiếu các quyền sau:% s"
+
+#: inc/classes/class-flatsome-envato-api.php:219
+#, fuzzy
+msgid ""
+"The token is valid, but the Envato user associated with it doesn't seem to "
+"have purchased Flatsome. Double-check that you were logged in with the same "
+"user that bought Flatsome when you created the token."
+msgstr ""
+"Mã thông báo hợp lệ, nhưng người dùng Envato được liên kết với nó dường như "
+"chưa mua Flatsome. Kiểm tra kỹ xem bạn đã đăng nhập bằng chính người dùng đã "
+"mua Flatsome khi bạn tạo mã thông báo chưa."
+
+#: inc/extensions/flatsome-cookie-notice/flatsome-cookie-notice.php:50
+#, fuzzy
+msgctxt "cookie notice"
+msgid "More info"
+msgstr "Xem thêm thông tin"
+
+#: inc/extensions/flatsome-cookie-notice/flatsome-cookie-notice.php:60
+#, fuzzy
+msgctxt "cookie notice"
+msgid "Accept"
+msgstr "Chấp nhận"
+
+#: inc/extensions/flatsome-infinite-scroll/templates/button.php:2
+#, fuzzy
+msgid "View more"
+msgstr "Xem thêm"
+
+#: inc/extensions/flatsome-live-search/flatsome-live-search.php:199
+#, fuzzy
+msgid "No matches found"
+msgstr "Không có kết quả"
+
+#: inc/extensions/flatsome-wc-quick-view/flatsome-quick-view.php:15
+#, fuzzy
+msgid "Quick View"
+msgstr "Xem nhanh"
+
+#: inc/functions/function-custom-css.php:655
+#: inc/woocommerce/structure-wc-product-box.php:29
+#, fuzzy
+msgid "New"
+msgstr "Mới"
+
+#: inc/functions/function-custom-css.php:656
+msgid "Hot"
+msgstr ""
+
+#: inc/functions/function-custom-css.php:657
+#, fuzzy
+msgid "Sale"
+msgstr "Giảm giá"
+
+#: inc/functions/function-custom-css.php:658
+#, fuzzy
+msgid "Popular"
+msgstr "Phổ biến"
+
+#: inc/functions/function-setup.php:60 inc/functions/function-setup.php:182
+#, fuzzy
+msgid "Main Menu"
+msgstr "Menu chính"
+
+#: inc/functions/function-setup.php:61
+#, fuzzy
+msgid "Main Menu - Mobile"
+msgstr "Menu chính - Mobile"
+
+#: inc/functions/function-setup.php:62
+msgid "Footer Menu"
+msgstr ""
+
+#: inc/functions/function-setup.php:63
+#, fuzzy
+msgid "Top Bar Menu"
+msgstr "Menu trên Topbar"
+
+#: inc/functions/function-setup.php:64
+#, fuzzy
+msgid "My Account Menu"
+msgstr "Menu Tài khoản"
+
+#: inc/functions/function-setup.php:84
+msgid "Sidebar"
+msgstr ""
+
+#: inc/functions/function-setup.php:94
+msgid "Footer 1"
+msgstr ""
+
+#: inc/functions/function-setup.php:104
+msgid "Footer 2"
+msgstr ""
+
+#: inc/functions/function-update.php:254
+#, fuzzy
+msgid ""
+"<a href=\"%s\">Please enter your Envato token</a> to activate Flatsome and "
+"get one-click updates."
+msgstr ""
+"<a href=\"%s\"> Vui lòng nhập mã thông báo Envato của bạn </a> để kích hoạt "
+"Flatsome và nhận cập nhật bằng một cú nhấp chuột."
+
+#: inc/integrations/wc-yith-wishlist/yith-wishlist.php:61
+#: inc/integrations/wc-yith-wishlist/yith-wishlist.php:82
+#, fuzzy
+msgid "Wishlist"
+msgstr "Yêu thích"
+
+#. translators: %s: comment count
+#: inc/shortcodes/blog_posts.php:281
+#, fuzzy
+msgid "%s Comment"
+msgid_plural "%s Comments"
+msgstr[0] "%s Bình luận"
+
+#: inc/shortcodes/portfolio.php:146 woocommerce/product-searchform.php:38
+#, fuzzy
+msgid "All"
+msgstr "Tất cả"
+
+#: inc/shortcodes/share_follow.php:81
+#, fuzzy
+msgid "Share on WhatsApp"
+msgstr "Chia sẻ  Whatsapp"
+
+#: inc/shortcodes/share_follow.php:83
+#, fuzzy
+msgid "Share on Facebook"
+msgstr "Chia sẻ Facebook"
+
+#: inc/shortcodes/share_follow.php:85
+#, fuzzy
+msgid "Share on Twitter"
+msgstr "Chia sẻ Twitter"
+
+#: inc/shortcodes/share_follow.php:87
+#, fuzzy
+msgid "Email to a Friend"
+msgstr "Email cho bạn bè"
+
+#: inc/shortcodes/share_follow.php:89
+#, fuzzy
+msgid "Pin on Pinterest"
+msgstr "Ghim trên Pinterest"
+
+#: inc/shortcodes/share_follow.php:91
+#, fuzzy
+msgid "Share on VKontakte"
+msgstr "Chia sẻ  VKontakte"
+
+#: inc/shortcodes/share_follow.php:93
+#, fuzzy
+msgid "Share on LinkedIn"
+msgstr "Chia sẻ LinkedIn"
+
+#: inc/shortcodes/share_follow.php:95
+#, fuzzy
+msgid "Share on Tumblr"
+msgstr "Chia sẻ Tumblr"
+
+#: inc/shortcodes/share_follow.php:181
+#, fuzzy
+msgid "Follow on Facebook"
+msgstr "Theo dõi Facebook"
+
+#: inc/shortcodes/share_follow.php:185
+#, fuzzy
+msgid "Follow on Instagram"
+msgstr "Theo dõi Instagram"
+
+#: inc/shortcodes/share_follow.php:189
+#, fuzzy
+msgid "Follow on TikTok"
+msgstr "Theo dõi Tiktok"
+
+#: inc/shortcodes/share_follow.php:193
+#, fuzzy
+msgid "Follow on SnapChat"
+msgstr "Theo dõi SnapChat"
+
+#: inc/shortcodes/share_follow.php:198
+#, fuzzy
+msgid "Point the SnapChat camera at this to add us to SnapChat."
+msgstr "Hướng camera SnapChat vào đây để thêm chúng tôi vào SnapChat."
+
+#: inc/shortcodes/share_follow.php:203
+#, fuzzy
+msgid "Follow on Twitter"
+msgstr "Theo dõi Twitter"
+
+#: inc/shortcodes/share_follow.php:207
+#, fuzzy
+msgid "Send us an email"
+msgstr "Gửi email cho chúng tôi"
+
+#: inc/shortcodes/share_follow.php:211
+#, fuzzy
+msgid "Call us"
+msgstr "Gọi chúng tôi"
+
+#: inc/shortcodes/share_follow.php:215
+#, fuzzy
+msgid "Follow on Pinterest"
+msgstr "Theo dõi Pinterest"
+
+#: inc/shortcodes/share_follow.php:219
+#, fuzzy
+msgid "Subscribe to RSS"
+msgstr "Đăng ký để RSS"
+
+#: inc/shortcodes/share_follow.php:222
+#, fuzzy
+msgid "Follow on LinkedIn"
+msgstr "Theo dõi LinkeIn"
+
+#: inc/shortcodes/share_follow.php:225
+#, fuzzy
+msgid "Follow on YouTube"
+msgstr "Theo dõi Youtube"
+
+#: inc/shortcodes/share_follow.php:229
+#, fuzzy
+msgid "Flickr"
+msgstr "Flickr"
+
+#: inc/shortcodes/share_follow.php:233
+#, fuzzy
+msgid "Follow on 500px"
+msgstr "Theo dõi 500px"
+
+#: inc/shortcodes/share_follow.php:237
+#, fuzzy
+msgid "Follow on VKontakte"
+msgstr "Theo dõi VKontakte"
+
+#: inc/structure/structure-portfolio.php:50
+#, fuzzy
+msgctxt "breadcrumb"
+msgid "Home"
+msgstr "Trang chủ"
+
+#: inc/structure/structure-posts.php:139
+#, fuzzy
+msgid "<span class=\"icon-angle-left\"></span> Older posts"
+msgstr "<span class=\"icon-angle-left\"></span> Bài viết cũ hơn"
+
+#: inc/structure/structure-posts.php:144
+#, fuzzy
+msgid "Newer posts <span class=\"icon-angle-right\"></span>"
+msgstr "Bài viết mới hơn <span class=\"icon-angle-right\"></span>"
+
+#: inc/structure/structure-posts.php:168
+msgid "Pingback:"
+msgstr ""
+
+#: inc/structure/structure-posts.php:184
+#, fuzzy
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"nói\">nói:</span>"
+
+#: inc/structure/structure-posts.php:186
+#, fuzzy
+msgid "Your comment is awaiting moderation."
+msgstr "Bình luận của bạn đang chờ kiểm duyệt."
+
+#: inc/structure/structure-posts.php:195
+#, fuzzy
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s tại %2$s"
+
+#: inc/structure/structure-posts.php:235
+#, fuzzy
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Được đăng vào: %s"
+
+#: inc/structure/structure-posts.php:240
+#, fuzzy
+msgctxt "post author"
+msgid "by %s"
+msgstr "bởi %s"
+
+#: inc/widgets/widget-blocks.php:17
+#, fuzzy
+msgid "A widget that displays a Block "
+msgstr "Một widdget  hiển thị một Block"
+
+#: inc/widgets/widget-blocks.php:21
+msgid "Flatsome Blocks"
+msgstr ""
+
+#: inc/widgets/widget-blocks.php:85 inc/widgets/widget-recent-posts.php:129
+#, fuzzy
+msgid "Title:"
+msgstr "Tiêu đề:"
+
+#: inc/widgets/widget-blocks.php:88
+msgid "Block:"
+msgstr ""
+
+#: inc/widgets/widget-recent-posts.php:18
+#, fuzzy
+msgid "A widget that displays recent posts "
+msgstr "1 widget hiển thị bài viết gần đây"
+
+#: inc/widgets/widget-recent-posts.php:22
+#, fuzzy
+msgid "Flatsome Recent Posts"
+msgstr "Flatsome bài viết gần đây"
+
+#: inc/widgets/widget-recent-posts.php:49
+#, fuzzy
+msgid "Recent Posts"
+msgstr "Bài viết gần đây"
+
+#: inc/widgets/widget-recent-posts.php:86
+#: template-parts/posts/partials/entry-footer-single.php:24
+#: template-parts/posts/partials/entry-footer.php:24
+#, fuzzy
+msgid "<strong>1</strong> Comment"
+msgstr "<strong>1</strong> Bình luận"
+
+#: inc/widgets/widget-recent-posts.php:86
+#: template-parts/posts/partials/entry-footer-single.php:24
+#: template-parts/posts/partials/entry-footer.php:24
+#, fuzzy
+msgid "<strong>%</strong> Comments"
+msgstr "<strong>%</strong> Bình luận"
+
+#: inc/widgets/widget-recent-posts.php:132
+#, fuzzy
+msgid "Number of posts to show:"
+msgstr "Số lượng bài để hiển thị:"
+
+#: inc/widgets/widget-recent-posts.php:136
+#, fuzzy
+msgid "Show thumbnail"
+msgstr "Hiển thị hình thu nhỏ"
+
+#: inc/widgets/widget-recent-posts.php:139
+#, fuzzy
+msgid "Show date stamp on thumbnail"
+msgstr "Hiển thị label ngày tháng trên hình thu nhỏ"
+
+#: inc/widgets/widget-recent-posts.php:140
+#, fuzzy
+msgid ""
+"* If a featured image is not set or the \"Show Thumbnail\" option is "
+"disabled, the date stamp will always be displayed."
+msgstr ""
+"* Nếu một hình ảnh nổi bật không được cài đặt hoặc tùy chọn \"Hiển thị Hình "
+"thu nhỏ\" bị tắt, label ngày tháng sẽ luôn được hiển thị."
+
+#: inc/widgets/widget-upsell.php:20
+#, fuzzy
+msgid "Add upsell products to product page"
+msgstr "Thêm upsell sản phẩm vào trang sản phẩm"
+
+#: inc/widgets/widget-upsell.php:48 inc/widgets/widget-upsell.php:116
+#, fuzzy
+msgid "Complete the look"
+msgstr "Hoàn thiện giao diện"
+
+#: inc/woocommerce/structure-wc-category-page.php:97
+#: inc/woocommerce/structure-wc-product-page-fields.php:31
+#, fuzzy
+msgid "Top Content"
+msgstr "Nội dung ở trên"
+
+#: inc/woocommerce/structure-wc-category-page.php:102
+#, fuzzy
+msgid ""
+"Enter a value for this field. Shortcodes are allowed. This will be displayed "
+"at top of the category."
+msgstr ""
+"Nhập giá trị cho trường này. Shortcode được cho phép. Điều này sẽ được hiển "
+"thị ở đầu danh mục."
+
+#: inc/woocommerce/structure-wc-category-page.php:119
+#: inc/woocommerce/structure-wc-product-page-fields.php:38
+#, fuzzy
+msgid "Bottom Content"
+msgstr "Nội dung bên dưới"
+
+#: inc/woocommerce/structure-wc-category-page.php:124
+#, fuzzy
+msgid ""
+"Enter a value for this field. Shortcodes are allowed. This will be displayed "
+"at bottom of the category."
+msgstr ""
+"Nhập giá trị cho trường này. Shortcode được cho phép. Điều này sẽ được hiển "
+"thị ở cuối danh mục."
+
+#: inc/woocommerce/structure-wc-category-page.php:152
+#, fuzzy
+msgid "Choose a custom product block layout for this category."
+msgstr "Chọn một bố cục block  sản phẩm tùy chỉnh cho danh mục này."
+
+#: inc/woocommerce/structure-wc-checkout.php:166
+#, fuzzy
+msgid "I have read and agree"
+msgstr "Tôi đã đọc và đồng ý"
+
+#: inc/woocommerce/structure-wc-global.php:90
+#, fuzzy
+msgid "Shop Sidebar"
+msgstr "Trang sản phẩm sidebar"
+
+#: inc/woocommerce/structure-wc-global.php:99
+#, fuzzy
+msgid "Product Sidebar"
+msgstr "Sản phẩm sidebar"
+
+#: inc/woocommerce/structure-wc-global.php:258
+#, fuzzy
+msgid "Posts found"
+msgstr "Đã tìm thấy bài viết"
+
+#: inc/woocommerce/structure-wc-global.php:271
+#, fuzzy
+msgid "Pages found"
+msgstr "Các trang được tìm thấy"
+
+#: inc/woocommerce/structure-wc-product-page-fields.php:17
+#, fuzzy
+msgid "Product layout"
+msgstr "Giao diện sản phẩm"
+
+#: inc/woocommerce/structure-wc-product-page-fields.php:24
+#, fuzzy
+msgid "Choose a custom product block layout for this product."
+msgstr "Chọn bố block sản phẩm tùy chỉnh cho sản phẩm này."
+
+#: inc/woocommerce/structure-wc-product-page-fields.php:33
+#, fuzzy
+msgid ""
+"Enter content that will show after the header and before the product. "
+"Shortcodes are allowed"
+msgstr ""
+"Nhập nội dung sẽ hiển thị sau tiêu đề và trước sản phẩm. Shortcode được cho "
+"phép"
+
+#: inc/woocommerce/structure-wc-product-page-fields.php:40
+#, fuzzy
+msgid ""
+"Enter content that will show after the product info. Shortcodes are allowed"
+msgstr ""
+"Nhập nội dung sẽ hiển thị sau thông tin sản phẩm. Shortcode được cho phép"
+
+#: inc/woocommerce/structure-wc-product-page-fields.php:46
+#, fuzzy
+msgid "Extra"
+msgstr "Thêm"
+
+#: inc/woocommerce/structure-wc-product-page-fields.php:52
+#, fuzzy
+msgid "Enable a custom bubble on this product."
+msgstr "Bật nhãn tùy chỉnh trên sản phẩm này."
+
+#: inc/woocommerce/structure-wc-product-page-fields.php:82
+#, fuzzy
+msgid "Custom Tab Content"
+msgstr "Nội dung tab tùy chỉnh"
+
+#: inc/woocommerce/structure-wc-product-page-fields.php:84
+#, fuzzy
+msgid "Enter content for custom product tab here. Shortcodes are allowed"
+msgstr ""
+"Nhập nội dung cho tab sản phẩm tùy chỉnh tại đây. Shortcode được cho phép"
+
+#: inc/woocommerce/structure-wc-product-page-fields.php:93
+#, fuzzy
+msgid "Product Video"
+msgstr "Video sản phẩm"
+
+#: inc/woocommerce/structure-wc-product-page-fields.php:95
+#, fuzzy
+msgid ""
+"Enter a Youtube or Vimeo Url of the product video here. We recommend "
+"uploading your video to Youtube."
+msgstr ""
+"Nhập Url Youtube hoặc Vimeo của video sản phẩm tại đây. Chúng tôi khuyên bạn "
+"nên đăng tải video của mình lên Youtube."
+
+#: inc/woocommerce/structure-wc-product-page-fields.php:110
+#, fuzzy
+msgid "Select where you want to display product video."
+msgstr "Chọn nơi bạn muốn hiển thị video sản phẩm."
+
+#: inc/woocommerce/structure-wc-product-page.php:73
+#: inc/woocommerce/structure-wc-product-page.php:139
+msgid "Video"
+msgstr ""
+
+#: inc/woocommerce/structure-wc-product-page.php:104
+#, fuzzy
+msgid "Zoom"
+msgstr "Phóng to"
+
+#. Template Name of the theme
+msgid "Page - Full Width - Parallax Title"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Page - No Header / No Footer"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Page - Vertical Sub-Nav"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Page - Container - Center Title"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Page - Full Width"
+msgstr ""
+
+#. Template Name of the theme
+msgid "WooCommerce - Cart"
+msgstr ""
+
+#. Template Name of the theme
+msgid "WooCommerce - Checkout"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Portfolio"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Page - Full Width - Header on Scroll"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Page - Left Sidebar"
+msgstr ""
+
+#. Template Name of the theme
+#, fuzzy
+msgid "WooCommerce - My Account"
+msgstr "WooCommerce - Tài khoản của tôi"
+
+#. Template Name of the theme
+msgid "Page - Right Sidebar"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Page - Single Page Nav - Transparent Header - Light Text"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Page - Single Page Nav - Transparent Header"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Page - Single Page Nav"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Page - Full Width - Transparent Header - Light Text"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Page - Full Width - Transparent Header"
+msgstr ""
+
+#: searchform.php:17 woocommerce/product-searchform.php:64
+#, fuzzy
+msgid "Submit"
+msgstr "Gửi"
+
+#. translators: 1. Template
+#: template-parts/admin/envato/directory-warning.php:5
+#, fuzzy
+msgid ""
+"An unusual theme directory name was detected: <em>%s</em>. The Flatsome "
+"parent theme should be installed in a directory named <em>flatsome</em> to "
+"ensure updates are handled correctly."
+msgstr ""
+"Đã phát hiện tên thư mục chủ đề bất thường: <em>% s </em>. Chủ đề gốc của "
+"Flatsome nên được cài đặt trong thư mục có tên là <em> flatsome </em> để đảm "
+"bảo các bản cập nhật được xử lý chính xác."
+
+#: template-parts/admin/envato/register-form.php:9
+#, fuzzy
+msgid ""
+"Your token <strong>is valid</strong>. Thank you! Enjoy Flatsome and one-"
+"click updates."
+msgstr ""
+"Token của bạn <strong> hợp lệ </strong>. Cảm ơn bạn! Tận hưởng các bản cập "
+"nhật Flatsome với một cú nhấp chuột."
+
+#: template-parts/admin/envato/register-form.php:60
+#, fuzzy
+msgid "Are you sure you want to unregister Flatsome?"
+msgstr "Bạn có chắc chắn muốn hủy đăng ký Flatsome không?"
+
+#. translators: 1: Version.
+#: template-parts/admin/envato/version-info-iframe.php:7
+#, fuzzy
+msgid "Version %s"
+msgstr "Phiên bản %s"
+
+#: template-parts/admin/envato/version-info-iframe.php:10
+#, fuzzy
+msgid "Read change log here"
+msgstr "Đọc nhật ký thay đổi tại đây"
+
+#: template-parts/header/partials/element-contact-mobile.php:29
+#: template-parts/header/partials/element-contact.php:24
+#, fuzzy
+msgid "Location"
+msgstr "Địa chỉ"
+
+#: template-parts/header/partials/element-contact-mobile.php:38
+#: template-parts/header/partials/element-contact.php:43
+msgid "Contact"
+msgstr "Liên hệ"
+
+#: template-parts/header/partials/element-menu-icon.php:4
+#: template-parts/header/partials/element-menu-icon.php:8
+msgid "Menu"
+msgstr ""
+
+#: template-parts/posts/content-none.php:14
+#, fuzzy
+msgid "Nothing Found"
+msgstr "Không kết quả"
+
+#: template-parts/posts/content-none.php:20
+#, fuzzy
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Bạn đã sẵn sàng để đăng bài viết đầu tiên của bạn? <a href=\"%1$s\"> Bắt đầu "
+"tại đây </a>."
+
+#: template-parts/posts/content-none.php:24
+#, fuzzy
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Xin lỗi, nhưng không có gì phù hợp với cụm từ tìm kiếm của bạn. Vui lòng thử "
+"lại với một số từ khóa khác nhau."
+
+#: template-parts/posts/content-none.php:29
+#, fuzzy
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Có vẻ như chúng tôi không thể tìm thấy những gì bạn đang tìm kiếm. Có lẽ tìm "
+"kiếm có thể giúp ích."
+
+#. translators: used between list items, there is a space after the comma
+#: template-parts/posts/content-single.php:22
+#: template-parts/posts/content-single.php:25
+#: template-parts/posts/partials/entry-footer-single.php:5
+#: template-parts/posts/partials/entry-footer-single.php:13
+#: template-parts/posts/partials/entry-footer.php:5
+#: template-parts/posts/partials/entry-footer.php:13
+#: template-parts/posts/partials/entry-title.php:2
+msgid ", "
+msgstr ""
+
+#: template-parts/posts/content-single.php:30
+#, fuzzy
+msgid "This entry was posted in %1$s and tagged %2$s."
+msgstr "Mục nhập này đã được đăng trong %1$s và được gắn thẻ %2$s."
+
+#: template-parts/posts/content-single.php:32
+#, fuzzy
+msgid ""
+"This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title="
+"\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+"Mục nhập này đã được đăng trong %1$s. Đánh dấu trang <a href=\"%3$s\" title="
+"\"Permalink thành %4$s\" rel=\"bookmark\"> đường dẫn tĩnh </a>."
+
+#: template-parts/posts/content.php:6 template-parts/posts/content.php:10
+#: template-parts/posts/featured-posts.php:23
+#, fuzzy
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Tiếp tục đọc <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/posts/loop/post-simple.php:23
+#, fuzzy
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "%1$s Bình luận"
+
+#: template-parts/posts/partials/archive-title.php:8
+#, fuzzy
+msgid "Category Archives: %s"
+msgstr "Danh mục:% s"
+
+#: template-parts/posts/partials/archive-title.php:11
+#, fuzzy
+msgid "Tag Archives: %s"
+msgstr "Thẻ: %s"
+
+#: template-parts/posts/partials/archive-title.php:14
+#, fuzzy
+msgid "Search Results for: %s"
+msgstr "Kết quả cho từ khóa: "
+
+#: template-parts/posts/partials/archive-title.php:21
+#, fuzzy
+msgid "Author Archives: %s"
+msgstr "Tác giả: %s"
+
+#: template-parts/posts/partials/archive-title.php:29
+#, fuzzy
+msgid "Daily Archives: %s"
+msgstr "Hàng ngày: %s"
+
+#: template-parts/posts/partials/archive-title.php:32
+#, fuzzy
+msgid "Monthly Archives: %s"
+msgstr "Hàng tháng: %s"
+
+#: template-parts/posts/partials/archive-title.php:35
+#, fuzzy
+msgid "Yearly Archives: %s"
+msgstr "Hàng năm: %s"
+
+#: template-parts/posts/partials/archive-title.php:38
+#, fuzzy
+msgid "Asides"
+msgstr "Bên cạnh"
+
+#: template-parts/posts/partials/archive-title.php:41
+#, fuzzy
+msgid "Images"
+msgstr "Hình ảnh"
+
+#: template-parts/posts/partials/archive-title.php:44
+#, fuzzy
+msgid "Videos"
+msgstr "Videos"
+
+#: template-parts/posts/partials/archive-title.php:47
+#, fuzzy
+msgid "Quotes"
+msgstr "Báo giá"
+
+#: template-parts/posts/partials/archive-title.php:50
+#, fuzzy
+msgid "Links"
+msgstr "Liên kết"
+
+#: template-parts/posts/partials/entry-footer-single.php:8
+#: template-parts/posts/partials/entry-footer.php:8
+#, fuzzy
+msgid "Posted in %1$s"
+msgstr "Đã đăng trong %1$s"
+
+#: template-parts/posts/partials/entry-footer-single.php:18
+#: template-parts/posts/partials/entry-footer.php:18
+#, fuzzy
+msgid "Tagged %1$s"
+msgstr "Được gắn thẻ %1$s"
+
+#: template-parts/posts/partials/entry-footer-single.php:24
+#: template-parts/posts/partials/entry-footer.php:24
+#, fuzzy
+msgid "Leave a comment"
+msgstr "Để lại bình luận"
+
+#: woocommerce/checkout/header-small.php:22 woocommerce/checkout/header.php:22
+#, fuzzy
+msgid "Shopping Cart"
+msgstr "Giỏ hàng"
+
+#: woocommerce/checkout/header-small.php:27 woocommerce/checkout/header.php:27
+#, fuzzy
+msgid "Checkout details"
+msgstr "Chi tiết thanh toán"
+
+#: woocommerce/checkout/header-small.php:32 woocommerce/checkout/header.php:32
+#, fuzzy
+msgid "Order Complete"
+msgstr "Hoàn thành đơn hàng"
+
+#: woocommerce/checkout/social-login.php:8 woocommerce/myaccount/header.php:64
+#, fuzzy
+msgid "Login with <strong>Facebook</strong>"
+msgstr "Đăng nhập với <strong>Facebook</strong>"
+
+#: woocommerce/checkout/social-login.php:19 woocommerce/myaccount/header.php:74
+#, fuzzy
+msgid "Login with <strong>Google</strong>"
+msgstr "Đăng nhập với <strong>Google</strong>"
